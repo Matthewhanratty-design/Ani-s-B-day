@@ -1,5 +1,5 @@
 # Ani-s-B-day
-<!doctype html>
+index.html
 <html lang="en">
 <head>
   <meta charset="utf-8" />
